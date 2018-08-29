@@ -808,5 +808,8 @@ namespace BusinessLayer.ClassFiles
         public static string GetPostChargesOnRoom = "[USP_GetPostChargesOnRoom]";
 
         public static string SaveClientsEmails = "[USP_SaveClientsEmails]";
+
+        public static string SaveClientsEmails = "NEW MODULE ADDED";
+
     }
 }
